@@ -32,3 +32,5 @@ The main objective of this project is to implement a predictive classification m
 -Reproducibility: Code written in Jupyter Notebooks ensures transparent and reproducible results, ideal for both academic and industry projects.
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b34b813e-78ef-461f-a0c4-afd2380426d5)
