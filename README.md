@@ -1,5 +1,17 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
+COMPANY- CODTECH IT SOLUTIONS
+
+NAME- PALAK KHANDELWAL
+
+INTERN ID- CT04DF430
+
+DOMAIN- PYTHON PROGRAMMING
+
+DURATIONS- 4WEEKS
+
+MENTOR- NEELA SANTOSH
+
 ## Objective
 The main objective of this project is to implement a predictive classification model using the Scikit-learn library in Python. The model will be trained on a labeled dataset (e.g., spam vs. non-spam emails) to learn patterns and make predictions on unseen data. This involves data preprocessing, feature extraction, model training, evaluation, and performance visualization—all within a Jupyter Notebook.
 
